@@ -6,7 +6,7 @@ A modern, responsive Student Management Dashboard built with React, TypeScript, 
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://your-vercel-deployment-url.vercel.app)** 
+**[View Live Demo](https://student-management-dashboard-self.vercel.app/)** 
 
 ## ✨ Features
 
